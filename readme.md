@@ -1,4 +1,4 @@
-# Dapp Calculator
+# Dapp Calculator (with Solidity)
 
 ## Try calculator
 ### 1. Start development ethereum network using ganache
